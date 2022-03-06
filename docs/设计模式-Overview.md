@@ -91,11 +91,11 @@
 
 ### [¶](#关联关系) 关联关系
 
-![img](/docs/imgs/design_part/design_overview_3.png)
+![img](/docs/imgs/design_overview_3.png)
 
 ### [¶](#知识体系图) 知识体系图
 
-![img](/docs/imgs/design_part/design_overview_1.png)
+![img](/docs/imgs/design_overview_1.png)
 
 ## [¶](#参考) 参考
 
