@@ -28,7 +28,7 @@
 
 *知识体系系统性梳理*
 
-![img](/_images/design-pattern.png)
+![img](/docs/imgs/design-pattern.png)
 
 *相关文章*
 
@@ -91,11 +91,11 @@
 
 ### [¶](#关联关系) 关联关系
 
-![img](/_images/design_part/design_overview_3.png)
+![img](/docs/imgs/design_part/design_overview_3.png)
 
 ### [¶](#知识体系图) 知识体系图
 
-![img](/_images/design_part/design_overview_1.png)
+![img](/docs/imgs/design_part/design_overview_1.png)
 
 ## [¶](#参考) 参考
 
